@@ -9,7 +9,7 @@ I build **local-first, zero-knowledge compatible systems** focused on privacy-fi
 - Minimal data exposure by default
 
 ## Current work:
-- CipherMatch — ephemeral communication infrastructure
-
+- CipherMatch — The social WiFi layer for physical spaces.
+  
 ## Notes
 I keep most implementation repos private by design.

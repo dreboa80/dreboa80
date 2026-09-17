@@ -9,7 +9,7 @@ I build **local-first, zero-knowledge compatible systems** focused on privacy-fi
 - Minimal data exposure by default
 
 ## Current work:
-- CipherMatch — The social WiFi layer for physical spaces.
+- Cipher — The Community AI Operator helping venues & events grow the value of each visitor.
   
 ## Notes
 I keep most implementation repos private by design.
